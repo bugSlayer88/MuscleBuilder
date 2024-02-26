@@ -18,3 +18,15 @@
 # SELECT workout_title
 # FROM exercise_info
 # WHERE exercise_info.workout_title NOT IN (SELECT workout_title FROM routine_details);
+
+class Workout:
+    def __init__(self,split_body,focus):
+
+        self.split_body = split_body
+        self.focus = focus
+
+
+class BuildRoutine:
+
+    def __init__(self):
+        self.workouts = []
