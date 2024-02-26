@@ -1,18 +1,49 @@
 workout_title,split,movement_type,routine_spot
-Kickbacks,Lower Body,Muscle,Main
+Leg Press Sled,Lower Body,Muscle,Main
+Leg Press,Lower Body,Muscle,Main
+Kneeling Leg Curl,Lower Body,Muscle,Main
+Forward Lunges,Lower Body,Muscle,Main
+Reverse Lunges,Lower Body,Muscle,Main
+Weighted Step Ups,Lower Body,Muscle,Main
+Romanian Deadlift,Lower Body,Muscle,Main
 Hip Abduction,Lower Body,Muscle,Main
 Leg Abduction,Lower Body,Muscle,Main
 Hip Adduction,Lower Body,Muscle,Main
 Leg Adduction,Lower Body,Muscle,Main
+Kickbacks,Lower Body,Muscle,Main
 Toe Raises,Lower Body,Muscle,Main
-Kneeling Leg Curl,Lower Body,Muscle,Main
-Romanian Deadlift,Lower Body,Muscle,Main
-Weighted Step Ups,Lower Body,Muscle,Main
-Leg Press Sled,Lower Body,Muscle,Main
-Forward Lunges,Lower Body,Muscle,Main
-Reverse Lunges,Lower Body,Muscle,Main
-Leg Press,Lower Body,Muscle,Main
 Leg Extension,Lower Body,Muscle,Main
+Hammer Curl,Upper Body,Muscle,Main
+Zottman Curl,Upper Body,Muscle,Main
+Rear Delt Fly,Upper Body,Muscle,Main
+Lateral Raise,Upper Body,Muscle,Main
+Ball Slams,Full Body,Muscle,Abs
+Toe Touch w Ball,Full Body,Muscle,Abs
+Elbow Kiss,Upper Body,Muscle,Main
+Skull Crusher,Upper Body,Muscle,Main
+Lat to Front Raise,Upper Body,Muscle,Main
+Shoulder Corner,Upper Body,Muscle,Main
+Jumprope,Full Body,Cardio,Warm Up
+Pullover,Upper Body,Muscle,Main
+Renegade Row,Upper Body,Muscle,Main
+Single Arm Row,Upper Body,Muscle,Main
+Dip Assist,Upper Body,Muscle,Main
+Figure 8 Ab,Full Body,Muscle,Abs
+Tricep Overhead Extension,Upper Body,Muscle,Main
+Reverse Fly,Upper Body,Muscle,Main
+Upright Row,Upper Body,Muscle,Main
+Curl to Press,Upper Body,Muscle,Main
+Shoulder Press,Upper Body,Muscle,Main
+Cable Chest Fly,Upper Body,Muscle,Main
+Cable Bicep Curl,Upper Body,Muscle,Main
+Tricep Pushdown,Upper Body,Muscle,Main
+Seated Row,Upper Body,Muscle,Main
+Face Pull,Upper Body,Muscle,Main
+Incline Bicep Curl,Upper Body,Muscle,Main
+Incline Press,Upper Body,Muscle,Main
+Treadmill Incline Walk,Full Body,Cardio,Warm Up
+Mario Cart,Upper Body,Muscle,Main
+Pull Up,Upper Body,Muscle,Main
 Leg Press Calf Raise,Lower Body,Muscle,Main
 Leg Curls Prone,Lower Body,Muscle,Main
 Squats,Lower Body,Muscle,Main
@@ -21,42 +52,17 @@ Split Squat,Lower Body,Muscle,Main
 Lateral Squat,Lower Body,Muscle,Main
 Bulgarian Split Squat,Lower Body,Muscle,Main
 Hack Squat,Lower Body,Muscle,Main
-Lat Pulldown,Upper Body,Muscle,Main
-Pull Up,Upper Body,Muscle,Main
-Hammer Curl,Upper Body,Muscle,Main
-Zottman Curl,Upper Body,Muscle,Main
-Shoulder Corner,Upper Body,Muscle,Main
-Shoulder Press,Upper Body,Muscle,Main
-Rear Delt Fly,Upper Body,Muscle,Main
-Reverse Fly,Upper Body,Muscle,Main
-Skull Crusher,Upper Body,Muscle,Main
-Upright Row,Upper Body,Muscle,Main
-Seated Row,Upper Body,Muscle,Main
-Renegade Row,Upper Body,Muscle,Main
-Single Arm Row,Upper Body,Muscle,Main
-Tricep Kickback,Upper Body,Muscle,Main
-Tricep Pushdown,Upper Body,Muscle,Main
-Tricep Overhead Extension,Upper Body,Muscle,Main
-Incline Bicep Curl,Upper Body,Muscle,Main
-Cable Bicep Curl,Upper Body,Muscle,Main
-Cable Chest Fly,Upper Body,Muscle,Main
-Chest Supported Row,Upper Body,Muscle,Main
-Elbow Kiss,Upper Body,Muscle,Main
-Mario Cart,Upper Body,Muscle,Main
-Pullover,Upper Body,Muscle,Main
-Dip Assist,Upper Body,Muscle,Main
-Face Pull,Upper Body,Muscle,Main
-Curl to Press,Upper Body,Muscle,Main
-Lateral Raise,Upper Body,Muscle,Main
-Incline Press,Upper Body,Muscle,Main
-Lat to Front Raise,Upper Body,Muscle,Main
 Glute Bridges,Lower Body,Muscle,Main
+Chest Supported Row,Upper Body,Muscle,Main
+Tricep Kickback,Upper Body,Muscle,Main
+Back Extension,Full Body,Muscle,Abs
 Crunch Machine Center,Full Body,Muscle,Abs
 Crunch Machine Left,Full Body,Muscle,Abs
 Crunch Machine Right,Full Body,Muscle,Abs
-Figure 8 Ab,Full Body,Muscle,Abs
-Ball Slams,Full Body,Muscle,Abs
 Pike,Full Body,Muscle,Abs
-Toe Touch w Ball,Full Body,Muscle,Abs
 Military Sit Up,Full Body,Muscle,Abs
-Back Extension,Full Body,Muscle,Abs
+Jumping Jacks,Full Body,Cardio,Warm Up
+Burpee,Full Body,Cardio,Warm Up
+Stair Machine,Full Body,Cardio,Warm Up
+Row Machine,Full Body,Cardio,Warm Up
+Lat Pulldown,Upper Body,Muscle,Main
