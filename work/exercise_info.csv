@@ -1,0 +1,68 @@
+workout_id,workout_title,primary_muscle,secondary_muscle,alt_name_01,focus_category
+62,Treadmill Incline Walk,Heart,Quadricep,,
+63,Stair Machine,Heart,Gluteus,,
+64,Jumprope,Heart,Heart,,
+65,Jumping Jacks,Heart,Heart,,
+66,Row Machine,Heart,Latissimus,,
+67,Burpee,Heart,Quadricep,,
+3,Kickbacks,Gluteus Maximus,Gluteus Medius,,Glutes
+4,Glute Bridges,Gluteus,Hamstring,,Glutes
+5,Squats,Gluteus,Quadricep,,Glutes
+6,Leg Abduction,Gluteus,Tensor Fascia,,Glutes
+12,Hip Abduction,Gluteus,Tensor Fascia,,Glutes
+16,Romanian Deadlift,Gluteus,Lower Back,,Glutes
+21,Hack Squat,Gluteus,Hamstring,,Glutes
+22,Leg Press Sled,Gluteus,Quadricep,,Glutes
+1,Leg Press,Quadricep,Gluteus,,Legs
+2,Forward Lunges,Quadricep,Gluteus,,Legs
+8,Goblet Squats,Quadricep,Calf,,Legs
+9,Leg Extension,Quadricep,Vastus Lateralis,,Legs
+14,Split Squat,Quadricep,Gluteus,,Legs
+15,Lateral Squat,Quadricep,Gluteus,,Legs
+17,Bulgarian Split Squat,Quadricep,Gluteus,,Legs
+20,Weighted Step Ups,Quadricep,Gluteus,,Legs
+23,Reverse Lunges,Quadricep,Hamstring,,Legs
+11,Leg Curls Prone,Hamstring,Gluteus,,Legs
+19,Kneeling Leg Curl,Hamstring,Gluteus,,Legs
+10,Leg Press Calf Raise,Calf,Calf,,Legs
+18,Toe Raises,Calf,Tibialis Anterior,,Legs
+30,Tricep Pushdown,Tricep,Tricep,,Triceps
+34,Skull Crusher,Tricep,Trapezius,,Triceps
+7,Leg Adduction,Hip Adductor,Adductor Brevis,,Legs
+13,Hip Adduction,Hip Adductor,Adductor Brevis,,Legs
+29,Cable Chest Fly,Pectoral,Deltoid,,Chest
+40,Elbow Kiss,Pectoral,Deltoid,,Chest
+42,Incline Press,Pectoral,Deltoid,,Chest
+46,Pullover,Pectoral,Latissimus,,Chest
+25,Shoulder Corner,Deltoid,Serratus,,Shoulders
+32,Shoulder Press,Deltoid,Tricep,,Shoulders
+33,Rear Delt Fly,Deltoid,Trapezius,,Shoulders
+35,Upright Row,Deltoid,Trapezius,,Shoulders
+36,Lateral Raise,Deltoid,Serratus,,Shoulders
+41,Mario Cart,Deltoid,Pectoral,,Shoulders
+45,Reverse Fly,Deltoid,Trapezius,,Shoulders
+52,Face Pull,Deltoid,Trapezius,,Shoulders
+44,Tricep Kickback,Tricep,Tricep,,Triceps
+47,Dip Assist,Tricep,Pectoral,,Triceps
+49,Tricep Overhead Extension,Tricep,Tricep,,Triceps
+26,Lat Pulldown,Latissimus,Trapezius,,Back
+38,Seated Row,Latissimus,Trapezius,,Back
+39,Chest Supported Row,Latissimus,Trapezius,,Back
+43,Lat to Front Raise,Latissimus,Deltoid,,Back
+48,Renegade Row,Latissimus,Deltoid,,Back
+50,Pull Up,Latissimus,Pectoral,,Back
+51,Single Arm Row,Latissimus,Rhomboid,,Back
+53,Back Extension,Erector Spinae,Gluteus,,Back
+24,Hammer Curl,Bicep,Brachioradialis,,Biceps
+27,Zottman Curl,Bicep,Brachialis,,Biceps
+28,Curl to Press,Bicep,Tricep,,Biceps
+31,Cable Bicep Curl,Bicep,Brachialis,,Biceps
+37,Incline Bicep Curl,Bicep,Brachialis,,Biceps
+54,Crunch Machine Center,Abdominal,Abdominal,,Abs
+55,Crunch Machine Left,Abdominal,Oblique,,Abs
+56,Crunch Machine Right,Abdominal,Oblique,,Abs
+57,Figure 8 Ab,Abdominal,Oblique,,Abs
+58,Ball Slams,Abdominal,Latissimus,,Abs
+59,Military Sit Up,Abdominal,Latissimus,,Abs
+60,Pike,Abdominal,Oblique,,Abs
+61,Toe Touch w Ball,Abdominal,Oblique,,Abs

@@ -1,0 +1,68 @@
+workout_title,split,movement_type,routine_spot,equipment
+Leg Press Sled,Lower Body,Muscle,Main,Machine
+Leg Press,Lower Body,Muscle,Main,Machine
+Kneeling Leg Curl,Lower Body,Muscle,Main,Machine
+Forward Lunges,Lower Body,Muscle,Main,Dumbbell
+Reverse Lunges,Lower Body,Muscle,Main,Dumbbell
+Weighted Step Ups,Lower Body,Muscle,Main,Dumbbell
+Romanian Deadlift,Lower Body,Muscle,Main,Dumbbell
+Hip Abduction,Lower Body,Muscle,Main,Resistance Band
+Leg Abduction,Lower Body,Muscle,Main,Resistance Band
+Hip Adduction,Lower Body,Muscle,Main,Resistance Band
+Leg Adduction,Lower Body,Muscle,Main,Resistance Band
+Kickbacks,Lower Body,Muscle,Main,Resistance Band
+Toe Raises,Lower Body,Muscle,Main,None
+Leg Extension,Lower Body,Muscle,Main,Machine
+Hammer Curl,Upper Body,Muscle,Main,Dumbbell
+Zottman Curl,Upper Body,Muscle,Main,Dumbbell
+Rear Delt Fly,Upper Body,Muscle,Main,Dumbbell
+Lateral Raise,Upper Body,Muscle,Main,Dumbbell
+Ball Slams,Full Body,Muscle,Abs,Medicine Ball
+Toe Touch w Ball,Full Body,Muscle,Abs,Medicine Ball
+Elbow Kiss,Upper Body,Muscle,Main,Dumbbell
+Skull Crusher,Upper Body,Muscle,Main,Dumbbell
+Lat to Front Raise,Upper Body,Muscle,Main,Dumbbell
+Shoulder Corner,Upper Body,Muscle,Main,Dumbbell
+Jumprope,Full Body,Cardio,Warm Up,Jump Rope
+Pullover,Upper Body,Muscle,Main,Dumbbell
+Renegade Row,Upper Body,Muscle,Main,Dumbbell
+Single Arm Row,Upper Body,Muscle,Main,Dumbbell
+Dip Assist,Upper Body,Muscle,Main,Machine
+Figure 8 Ab,Full Body,Muscle,Abs,Weight Plate
+Tricep Overhead Extension,Upper Body,Muscle,Main,Dumbbell
+Reverse Fly,Upper Body,Muscle,Main,Dumbbell
+Upright Row,Upper Body,Muscle,Main,Barbell
+Curl to Press,Upper Body,Muscle,Main,Barbell
+Shoulder Press,Upper Body,Muscle,Main,Barbell
+Cable Chest Fly,Upper Body,Muscle,Main,Cable
+Cable Bicep Curl,Upper Body,Muscle,Main,Cable
+Tricep Pushdown,Upper Body,Muscle,Main,Cable
+Seated Row,Upper Body,Muscle,Main,Cable
+Face Pull,Upper Body,Muscle,Main,Cable
+Incline Bicep Curl,Upper Body,Muscle,Main,Incline Bench
+Incline Press,Upper Body,Muscle,Main,Incline Bench
+Treadmill Incline Walk,Full Body,Cardio,Warm Up,Incline Bench
+Mario Cart,Upper Body,Muscle,Main,Weight Plate
+Pull Up,Upper Body,Muscle,Main,Pull Up Bar
+Leg Press Calf Raise,Lower Body,Muscle,Main,Machine
+Leg Curls Prone,Lower Body,Muscle,Main,Machine
+Squats,Lower Body,Muscle,Main,Dumbbell
+Goblet Squats,Lower Body,Muscle,Main,Dumbbell
+Split Squat,Lower Body,Muscle,Main,Dumbbell
+Lateral Squat,Lower Body,Muscle,Main,Dumbbell
+Bulgarian Split Squat,Lower Body,Muscle,Main,Dumbbell
+Hack Squat,Lower Body,Muscle,Main,Dumbbell
+Glute Bridges,Lower Body,Muscle,Main,Dumbbell
+Chest Supported Row,Upper Body,Muscle,Main,Incline Bench
+Tricep Kickback,Upper Body,Muscle,Main,Barbell
+Back Extension,Full Body,Muscle,Abs,Machine
+Crunch Machine Center,Full Body,Muscle,Abs,Machine
+Crunch Machine Left,Full Body,Muscle,Abs,Machine
+Crunch Machine Right,Full Body,Muscle,Abs,Machine
+Pike,Full Body,Muscle,Abs,None
+Military Sit Up,Full Body,Muscle,Abs,None
+Jumping Jacks,Full Body,Cardio,Warm Up,None
+Burpee,Full Body,Cardio,Warm Up,None
+Stair Machine,Full Body,Cardio,Warm Up,Machine
+Row Machine,Full Body,Cardio,Warm Up,Machine
+Lat Pulldown,Upper Body,Muscle,Main,Cable
