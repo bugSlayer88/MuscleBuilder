@@ -190,29 +190,10 @@ class GetWorkouts():
                     return self.back_focus
 
 
-# print('chest {}'.format(len(chest_focus)))
-# print('Triceps {}'.format(len(tri_focus)))
-# print('biceps {}'.format(len(bi_focus)))
-# print('shoulders {}'.format(len(shoulder_focus)))
-# print('back {}'.format(len(back_focus)))
-# print('legs {}'.format(len(leg_focus)))
-# print('glute {}'.format(len(glute_focus)))
-
-
-home_weights_set = set(weights_at_home)
-print(home_weights_set)
-chest_as_set = set(chest_focus)
-print(chest_as_set)
-
-chest_home = home_weights_set - chest_as_set
-
-print(chest_home)
-
-print(home_weights_set.intersection(chest_as_set))
-
-# Wide Grip Curls biceps brachialis
-# Close grip curls biceps brachialis
-# Push Ups Pectorals Tricep
-# Bear Plank Shoulder Tap
-# Incline Push Up
-# Pop Pushup
+# home_weights_set = set(weights_at_home)
+# print(home_weights_set)
+# chest_as_set = set(chest_focus)
+# print(chest_as_set)
+# chest_home = home_weights_set - chest_as_set
+# print(chest_home)
+# print(home_weights_set.intersection(chest_as_set))
