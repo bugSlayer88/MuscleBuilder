@@ -78,16 +78,6 @@ for i in range(len(routine_lines)):
     if routine_lines[i][4] != 'equipment':
         gym.append(routine_lines[i][0])
 
-# class SingleMuscleWorkout():
-#
-#     def __init__(self, body_split, muscle_focus):
-#         self.body_split = body_split
-#         self.muscle_focus = muscle_focus
-#         self.mvmt_time = 5
-#
-#     def set_time(self):
-#         return self.mvmt_time
-#
 
 class GetWorkouts():
 
@@ -107,17 +97,10 @@ class GetWorkouts():
         self.glute_focus = glute_focus
         self.leg_focus = leg_focus
 
-    # def split_moves(self):
-    #     if self.split_pref == 'Upper Body':
-    #         return self.all_upper
-    #     elif self.split_pref == 'Lower Body':
-    #         return self.all_lower
-    #     elif self.split_pref == 'Full Body':
-    #         return self.all_full_body
 
     def warm_up_moves(self):
         warm_ups = []
-        for i in range(0,1):
+        for i in range(0, 1):
             rand_cardio = random.choice(heart_focus)
             warm_ups.append(rand_cardio)
         return warm_ups
@@ -125,8 +108,8 @@ class GetWorkouts():
     def ab_moves(self):
         # ab_moves_end = []
         # for i in range(0,2):
-        rand_ab = random.sample(ab_focus,2)
-            # ab_moves_end.append(rand_ab)
+        rand_ab = random.sample(ab_focus, 2)
+        # ab_moves_end.append(rand_ab)
         return rand_ab
 
     def main_focus_moves(self):
