@@ -1,19 +1,20 @@
 from PyQt6 import QtCore, QtGui, QtWidgets
 from PyQt6.QtWidgets import QMessageBox
 
-from workout_list_001 import Ui_WorkoutListMain
-
+# from workout_list_001 import Ui_WorkoutListMain
+from workout_list_10_moves_001 import Ui_WorkoutListMain
+from builder import GetWorkouts
 splits = ['Upper Body', 'Lower Body', 'Full Body']
 
 time_min = ['30', '60']
 
-equipment = ['Full Gym', 'Dumbbells', 'None']
+equipment = ['Full Gym', 'At Home w Weights', 'At Home No Weights']
 
-upper_focus = ['Chest', 'Back', 'Arms', 'Shoulder']
+upper_focus = ['Chest', 'Back', 'Biceps', 'Triceps', 'Shoulders']
 
-lower_focus = ['Quads/Hamstrings', 'Glutes', 'Calves']
+lower_focus = ['Legs', 'Glutes']
 
-full_focus = ['Chest', 'Back', 'Arms', 'Abs', 'Glutes', 'Legs', 'Shoulders']
+full_focus = ['Chest', 'Back', 'Triceps', 'Biceps',  'Shoulders', 'Glutes', 'Legs']
 
 class Ui_GenerateWorkoutMain(object):
     def setupUi(self, GenerateWorkoutMain):
@@ -125,16 +126,30 @@ class Ui_GenerateWorkoutMain(object):
         self.ui = Ui_WorkoutListMain()
         self.ui.setupUi(self.window)
 
-        self.ui.warm_up_ex_lbl.setText()
+        split_pref = self.split_combo.currentText()
+        focus_pref = self.focus_combo.currentText()
+
+        workout_plan = GetWorkouts(split_pref=split_pref,focus_pref=focus_pref)
+
+        self.ui.workout_lbl.setText('Workout Plan for {} Day with Focus on {}'.format(split_pref,focus_pref))
+
+        self.ui.warm_up_ex_lbl.setText(workout_plan.warm_up_moves()[0])
+
+        self.ui.exercise_01_lbl.setText(workout_plan.main_focus_moves()[0])
+        self.ui.exercise_02_lbl.setText(workout_plan.main_focus_moves()[1])
+        self.ui.exercise_03_lbl.setText(workout_plan.main_focus_moves()[2])
+        self.ui.exercise_04_lbl.setText(workout_plan.main_focus_moves()[3])
+        self.ui.exercise_05_lbl.setText(workout_plan.main_focus_moves()[4])
+
+        self.ui.exercise_06_lbl.setText(workout_plan.secondary_focus_moves()[0])
+        self.ui.exercise_07_lbl.setText(workout_plan.secondary_focus_moves()[1])
+        self.ui.exercise_08_lbl.setText(workout_plan.secondary_focus_moves()[2])
+
+        self.ui.exercise_09_lbl.setText(workout_plan.ab_moves()[0])
+        self.ui.exercise_10_lbl.setText(workout_plan.ab_moves()[1])
 
         self.window.show()
 
-        # split_pref = self.split_combo.currentText()
-        # focus_pref = self.focus_combo.currentText()
-        # time_pref = self.time_combo.currentText()
-        # equipment_pref = self.equipment_combo.currentText()
-        #
-        # return split_pref, focus_pref, time_pref, equipment_pref
 
     def retranslateUi(self, GenerateWorkoutMain):
         _translate = QtCore.QCoreApplication.translate
