@@ -1,10 +1,7 @@
 workout_id,workout_title,primary_muscle,secondary_muscle,alt_name_01,focus_category
 62,Treadmill Incline Walk,Heart,Quadricep,,
 63,Stair Machine,Heart,Gluteus,,
-64,Jumprope,Heart,Heart,,
-65,Jumping Jacks,Heart,Heart,,
 66,Row Machine,Heart,Latissimus,,
-67,Burpee,Heart,Quadricep,,
 3,Kickbacks,Gluteus Maximus,Gluteus Medius,,Glutes
 4,Glute Bridges,Gluteus,Hamstring,,Glutes
 5,Squats,Gluteus,Quadricep,,Glutes
@@ -25,13 +22,11 @@ workout_id,workout_title,primary_muscle,secondary_muscle,alt_name_01,focus_categ
 11,Leg Curls Prone,Hamstring,Gluteus,,Legs
 19,Kneeling Leg Curl,Hamstring,Gluteus,,Legs
 10,Leg Press Calf Raise,Calf,Calf,,Legs
-18,Toe Raises,Calf,Tibialis Anterior,,Legs
 30,Tricep Pushdown,Tricep,Tricep,,Triceps
 34,Skull Crusher,Tricep,Trapezius,,Triceps
 7,Leg Adduction,Hip Adductor,Adductor Brevis,,Legs
 13,Hip Adduction,Hip Adductor,Adductor Brevis,,Legs
 29,Cable Chest Fly,Pectoral,Deltoid,,Chest
-40,Elbow Kiss,Pectoral,Deltoid,,Chest
 42,Incline Press,Pectoral,Deltoid,,Chest
 46,Pullover,Pectoral,Latissimus,,Chest
 25,Shoulder Corner,Deltoid,Serratus,,Shoulders
@@ -64,7 +59,6 @@ workout_id,workout_title,primary_muscle,secondary_muscle,alt_name_01,focus_categ
 57,Figure 8 Ab,Abdominal,Oblique,,Abs
 58,Ball Slams,Abdominal,Latissimus,,Abs
 59,Military Sit Up,Abdominal,Latissimus,,Abs
-60,Pike,Abdominal,Oblique,,Abs
 61,Toe Touch w Ball,Abdominal,Oblique,,Abs
-68,Incline Fly,Pectoral,Latissimus,,Chest
-69,Close Grip Bench Press,Pectoral,Deltoid,,Chest
+67,Incline Fly,Pectoral,Latissimus,,Chest
+68,Close Grip Bench Press,Pectoral,Deltoid,,Chest
