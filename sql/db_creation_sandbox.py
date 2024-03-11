@@ -1,11 +1,12 @@
-#
-# # CREATE TABLE exercise_info (
-# # 	workout_id SERIAL PRIMARY KEY,
-# # 	workout_title varchar(50) UNIQUE,
-# # 	primary_muscle varchar(100),
-# # 	secondary_muscle varchar(100),
-# # 	alt_name_01 varchar(100)
-# # );
+# #
+# CREATE TABLE fav_workouts (
+# 	workout_id SERIAL PRIMARY KEY,
+# 	workout_title varchar(50) UNIQUE,
+# 	primary_muscle varchar(100),
+# 	secondary_muscle varchar(100),
+# 	alt_name_01 varchar(100),
+#     focus_category varchar(50)
+# # # );
 #
 # # want to add these in other table:
 # # 	focus_category varchar(20),
