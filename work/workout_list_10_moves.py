@@ -9,7 +9,7 @@
 from PyQt6 import QtCore, QtGui, QtWidgets
 
 
-class Ui_WorkoutListMain(object):
+class Ui_WorkoutList10Main(object):
     def setupUi(self, WorkoutListMain):
         WorkoutListMain.setObjectName("WorkoutListMain")
         WorkoutListMain.resize(693, 762)
@@ -534,7 +534,7 @@ if __name__ == "__main__":
     import sys
     app = QtWidgets.QApplication(sys.argv)
     WorkoutListMain = QtWidgets.QWidget()
-    ui = Ui_WorkoutListMain()
+    ui = Ui_WorkoutList10Main()
     ui.setupUi(WorkoutListMain)
     WorkoutListMain.show()
     sys.exit(app.exec())
