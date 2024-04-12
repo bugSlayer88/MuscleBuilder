@@ -2,7 +2,7 @@ from PyQt6 import QtCore, QtGui, QtWidgets
 from PyQt6.QtWidgets import QMessageBox
 
 # from workout_list_001 import Ui_WorkoutListMain
-from workout_list_10_moves_001 import Ui_WorkoutListMain
+from workout_list_10_moves import Ui_WorkoutList10Main
 from builder import GetWorkouts
 splits = ['Upper Body', 'Lower Body', 'Full Body']
 
@@ -123,7 +123,7 @@ class Ui_GenerateWorkoutMain(object):
 
     def launch_workout_window(self):
         self.window = QtWidgets.QWidget()
-        self.ui = Ui_WorkoutListMain()
+        self.ui = Ui_WorkoutList10Main()
         self.ui.setupUi(self.window)
 
         split_pref = self.split_combo.currentText()
